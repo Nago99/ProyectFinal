@@ -1,0 +1,12 @@
+a{
+    text-decoration: none;
+    color: #fff;
+    display: inline-block;
+    margin-left: 10px;
+    transition: .5s;
+    padding: 15px;
+    
+}
+a:hover{
+    color: gold;
+}

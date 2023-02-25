@@ -1,11 +1,13 @@
 .row{
-    max-width: 1100px;
     margin: auto;
     padding: 40px 15px;
-    color: #111135;
+    color: #000000;
     display: flex;
     text-align: center;
     align-items: center;
+}
+div{
+    background: rgb(223, 223, 223);
 }
 /*	etiqueta nombre */
 #nombre{

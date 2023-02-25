@@ -1,0 +1,38 @@
+.row{
+    max-width: 1100px;
+    margin: auto;
+    padding: 40px 15px;
+    color: #111135;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+/*	etiqueta nombre */
+#nombre{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 20px o;
+    letter-spacing: 2px;
+}
+#titulo{
+    font-size: 15px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+#sobremi{
+    font-size: 22px;
+    text-transform: uppercase;
+    color: #090909;
+    text-decoration: underline;
+    text-decoration-color: #646161;
+    text-decoration-thickness: 3px;
+}
+/* Estilo foto*/
+
+div img{
+    padding: 20px;
+    width: 100%;
+    border-radius: 20px;
+    background-color: #f3f3f3;
+}

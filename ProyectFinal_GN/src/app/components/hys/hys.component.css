@@ -1,0 +1,7 @@
+.row{
+    background-color: rgb(223, 223, 223);
+    padding: 20px;
+}
+.row div{
+    padding: 15px;
+}
